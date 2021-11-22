@@ -1,0 +1,248 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bombay Novelty E-Store</title>
+<!--/tags -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Bombay Novelty E-store Responsive web template" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+		function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--//tags -->
+<link href="{% static 'css/bootstrap.css'%} " rel="stylesheet" type="text/css" media="all" />
+<link href="{% static 'css/style.css'%}" rel="stylesheet" type="text/css" media="all" />
+<link href="{% static 'css/font-awesome.css'%}" rel="stylesheet">
+<!-- //for bootstrap working -->
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800" rel="stylesheet">
+<link href='//fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,900,900italic,700italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<!-- header -->
+<div class="header" id="home">
+	<div class="container">
+		<ul>
+		    <li> <a href="{% url 'index' %}" ><i class="fa fa-unlock-alt" aria-hidden="true"></i> Sign Out </a></li>
+			<li> <a href="{% url 'changepassword' %}"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> ChangePassword </a></li>
+			<li><i class="fa fa-phone" aria-hidden="true"></i> Call : 9738215789</li>
+			<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@example.com">bombaynoveltystore@gmail.com</a></li>
+		</ul>
+	</div>
+</div>
+<!-- //header -->
+<!-- header-bot -->
+<div class="header-bot">
+	<div class="header-bot_inner_wthreeinfo_header_mid">
+
+		<!-- header-bot -->
+			<div class="col-md-4 logo_agile" style="width:800px;">
+				<h1><a href="index.html"><span>B</span>ombay Novelty E-Store</a></h1>
+			</div>
+        <!-- header-bot -->
+		<div class="col-md-4 agileits-social top_content">
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+<!-- //header-bot -->
+<!-- banner -->
+<div class="ban-top">
+	<div class="container">
+		<div class="top_nav_left">
+			<nav class="navbar navbar-default">
+			  <div class="container-fluid">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				  </button>
+				</div>
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse menu--shylock" id="bs-example-navbar-collapse-1">
+				  <ul class="nav navbar-nav menu__list">
+					  <li class="active menu__item menu__item--current"><a class="menu__link" href="#">Home <span class="sr-only">(current)</span></a></li>
+					  <li class="menu__item dropdown">
+					   <a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Category <b class="caret"></b></a>
+						<ul class="dropdown-menu agile_short_dropdown">
+							{% for cat in prod_cat %}
+							<li><a href="{% url 'catwise' %}">{{cat.cat_name}}</a></li>
+							{% endfor %}
+						</ul>
+					</li>
+						<li class="menu__item dropdown">
+					   <a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Products <b class="caret"></b></a>
+								<ul class="dropdown-menu agile_short_dropdown">
+									{% for p in  prod_list %}
+									<li><a href="{% url 'prodwise' %}">{{p.pname}}</a></li>
+									{% endfor %}
+								</ul>
+					  </li>
+					  <li class="menu__item dropdown">
+					   <a class="menu__link" href="#" class="dropdown-toggle" data-toggle="dropdown">Offers <b class="caret"></b></a>
+						<ul class="dropdown-menu agile_short_dropdown">
+							<li><a href="{% url 'exchange' %}"><b>Exhange Offers</b></a></li>
+							<li><a href="{% url 'service' %}"><b>Service</b></a></li>
+							<li><a href="{% url 'mbscheme' %}"><b>MB Scheme</b></a></li>
+						</ul>
+					  </li>
+                        <li class=" menu__item"><a class="menu__link" href="{% url 'procustomerview' %}">Product view</a></li>
+					  <li class=" menu__item"><a class="menu__link" href="{% url 'porder' %}">My Order</a></li>
+					  <li class=" menu__item"><a class="menu__link" href="{% url 'faq' %}">FAQ</a></li>
+				  </ul>
+				</div>
+			  </div>
+			</nav>
+		</div>
+
+		<div class="clearfix"></div>
+	</div>
+</div>
+<!-- //banner-top -->
+<!-- /banner_bottom_agile_info -->
+<div class="page-head_agile_info_w3l">
+		<div class="container">
+			<!--/w3_short-->
+				 <div class="services-breadcrumb">
+						<div class="agile_inner_breadcrumb">
+						</div>
+				</div>
+			<!--//w3_short-->
+	</div>
+</div>
+
+<!-- FORM DESIGN GOES HERE -->
+<div class="banner_bottom_agile_info">
+			<div class="container">
+			    <div class="grid_3 grid_4 w3layouts">
+				<h3 class="hdg" style="text-align:center;">Registration</h3>
+				<div class="bs-example">
+					<form method="post">
+						{% csrf_token %}
+					<table  width="500" height="300" align="center">
+						<tr>
+							<td>FirstName</td>
+							<td><input type="text" name="t1" required pattern="[A-Za-z]+" title="enter valid username"></td>
+						</tr>
+
+                        <tr>
+							<td>LastName</td>
+							<td><input type="text" name="t2" required pattern="[A-Za-z]+" title="enter valid username"></td >
+						</tr>
+
+                        <tr>
+							<td>Gender</td>
+							<td><input type="radio" name="t3" value="male">Male
+                                <input type="radio" name="t3" value="female">Female</td>
+						</tr>
+
+						<tr>
+							<td>Address</td>
+							<td><input type="text" name="t4" required pattern="[A-Za-z1-9\s]+" title="enter valid address"></td>
+						</tr>
+
+                        <tr>
+							<td>City</td>
+							<td><input type="text" name="t5" required pattern="[A-Za-z]+" title="enter valid city name"></td>
+						</tr>
+
+						<tr>
+							<td>Pincode</td>
+							<td><input type="text" name="t6" maxlength="6" required pattern="[0-9]{6}" title="enter valid pincode"></td>
+						</tr>
+						<tr>
+							<td>Mobileno</td>
+							<td><input type="text" name="t7" maxlength="10" required pattern="[6-9]{1}[0-9]{9}" title="enter valid mobile number"></td>
+						</tr>
+
+                        <tr>
+							<td>Email</td>
+							<td><input type="email" name="t8" required pattern="[a-z0-9]{1-15}[@]{1}[a-z]{5}.[c][o][m]" title="enter valid emailid"></td>
+						</tr>
+
+                        <tr>
+							<td>Password</td>
+							<td><input type="text" name="t9" maxlength="10" required pattern=".{6,}" title="enter minimum 6 "></td>
+						</tr>
+
+                        <tr>
+							<td>Confirm Password </td>
+							<td><input type="text" name="t10" maxlength="10" required pattern=".{6,}" title="enter minium 6"></td>
+						</tr>
+						<tr>
+							<td></td>
+							<td><input type="submit" name="t1" style="background-color:darkblue;color:white;width:100px;"><input type="reset" value="reset" name="t1" style="background-color:green;color:white;width:100px;"></td>
+						</tr>
+						
+					</table>
+				</form>
+				</div>
+			</div>
+			</div>
+			<div class="banner_bottom_agile_info">
+			<div class="container">
+				<div class="grid_3 grid_4 w3layouts">
+				</div>
+			</div>
+			</div>
+			<div class="footer">
+					<p class="copy-right">&copy 2019 Bombay Novelty. All rights reserved </p>
+			<div class="col-md-9 footer-right">
+			</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+<!-- //footer -->
+<div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content modal-info">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+			</div>
+		</div>
+	</div>
+</div>
+<a href="#home" class="scroll" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+<!-- js -->
+<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/jquery.countup.js"></script>
+	<script>
+		$('.counter').countUp();
+	</script>
+<!-- //stats -->
+<!-- start-smoth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/jquery.easing.min.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- here stars scrolling icon -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+				var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+				};
+			*/
+								
+			$().UItoTop({ easingType: 'easeOutQuart' });
+								
+			});
+	</script>
+<!-- //here ends scrolling icon -->
+
+<!-- for bootstrap working -->
+<script type="text/javascript" src="js/bootstrap.js"></script>
+</body>
+</html>

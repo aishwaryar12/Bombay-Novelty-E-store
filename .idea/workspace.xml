@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e579e7f3-28f8-4fc2-9a54-89550fa55cd0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2450">
+              <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appliances/appliances/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3275">
+              <caret line="131" selection-start-line="128" selection-end-line="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productview.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/productview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2975">
+              <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1041">
+              <caret line="194" column="60" lean-forward="true" selection-start-line="194" selection-start-column="60" selection-end-line="194" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orderview.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/orderview.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2500">
+              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appliances/appliances/urls.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21025">
+              <caret line="841" selection-start-line="841" selection-end-line="841" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forg</find>
+      <find>servicecustv</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/appliances/appliances/urls.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/django/conf/urls/static.py" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/FAQ.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/catedit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/changepassword.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/contact.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/exchangeedit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/feedback.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/mbschemeedit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/productedit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/purchaseedit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/sample.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/sampleedit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/serviceedit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/shipper_home.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/stockedit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/supplieredit.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/Category.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/categoryview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/Exchange_Offer.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/exchangeview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/mbscheme.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/mbschemeview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/order.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/orderview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/product.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/product_view_customer.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/productview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/Purchase_Items.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/purchaseview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/sampleview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/Service.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/serviceview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/Stock_Items.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/stockview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/supplier.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/supplierview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/service_customer_view.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/customer_home.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/admin.py" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/about.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/aboutus.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/admin_home.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/Bill.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/billingview.html" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/models.py" />
+        <option value="$PROJECT_DIR$/appliances/appliances/settings.py" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/views.py" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/urls.py" />
+        <option value="$PROJECT_DIR$/appliances/myappliance_app/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1350" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Home_Appliances" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Home_Appliances" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Home_Appliances" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Home_Appliances" type="462c0819:PsiDirectoryNode" />
+              <item name="appliances" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Home_Appliances" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Home_Appliances" type="462c0819:PsiDirectoryNode" />
+              <item name="appliances" type="462c0819:PsiDirectoryNode" />
+              <item name="appliances" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Home_Appliances" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Home_Appliances" type="462c0819:PsiDirectoryNode" />
+              <item name="appliances" type="462c0819:PsiDirectoryNode" />
+              <item name="myappliance_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Home_Appliances" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Home_Appliances" type="462c0819:PsiDirectoryNode" />
+              <item name="appliances" type="462c0819:PsiDirectoryNode" />
+              <item name="myappliance_app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="pymysql&#9;null&#9;null&#10;sample&#9;FILE&#9;file://C:/Users/Chaitali/PycharmProjects/Home_Appliances/appliances/myappliance_app/templates/sample.html&#10;procategory&#9;null&#9;null&#10;/accounts/update/&#9;null&#9;null&#10;initial&#9;FILE&#9;file://C:/Users/Chaitali/PycharmProjects/Home_Appliances/appliances/myappliance_app/migrations/0001_initial.py&#10;installed a&#9;null&#9;null&#10;sessions&#9;null&#9;null&#10;contenttype&#9;null&#9;null&#10;auth&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e579e7f3-28f8-4fc2-9a54-89550fa55cd0" name="Default" comment="" />
+      <created>1552309830067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552309830067</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122934565" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16096866" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17911434" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.27207977" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/Exchange_Offer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/exchangeview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/exchangeedit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2775">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/Feedback.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="152" column="6" selection-start-line="152" selection-start-column="6" selection-end-line="152" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/mbschemeview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="101" column="14" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/mbscheme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="95" column="27" lean-forward="true" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/product_view_customer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="97" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/Purchase_Items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/purchaseview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="100" column="14" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/sampleedit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/sampleview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="100" column="14" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/Service.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/shipper_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6825">
+          <caret line="935" column="32" lean-forward="true" selection-start-line="935" selection-start-column="32" selection-end-line="935" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/Stock_Items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/stockview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="100" column="14" selection-start-line="100" selection-start-column="14" selection-end-line="100" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/supplier.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/supplierview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/customer_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="95" column="99" selection-start-line="95" selection-start-column="99" selection-end-line="95" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/service_customer_view.html" />
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/serviceview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4650">
+          <caret line="186" column="41" selection-start-line="186" selection-start-column="41" selection-end-line="186" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/order.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2950">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/contenttypes/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/sessions/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/appliances/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/appliances/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/aboutus.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/Bill.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6100">
+          <caret line="244" selection-start-line="244" selection-end-line="244" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/billingview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="135" column="6" selection-start-line="135" selection-start-column="6" selection-end-line="135" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#table#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#9;n#tr#0;n#table#0;n#body#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21025">
+          <caret line="841" selection-start-line="841" selection-end-line="841" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="741" column="20" lean-forward="true" selection-start-line="741" selection-start-column="20" selection-end-line="741" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="145" column="28" lean-forward="true" selection-start-line="145" selection-start-column="28" selection-end-line="145" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/productview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8800">
+          <caret line="374" column="6" selection-start-line="374" selection-start-column="6" selection-end-line="374" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="98" column="30" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/accountant_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/admin_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15024">
+          <caret line="622" selection-start-line="622" selection-end-line="622" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/orderview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2500">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/appliances/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/appliances/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3275">
+          <caret line="131" selection-start-line="128" selection-end-line="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appliances/myappliance_app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1041">
+          <caret line="194" column="60" lean-forward="true" selection-start-line="194" selection-start-column="60" selection-end-line="194" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
